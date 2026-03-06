@@ -16,10 +16,12 @@ The case has 2 seperate peices: The Bottom and Sides, and the Top.
 I made my PCB in KiCad
 
 Schematic
-<img src=assets/schematic.png alt="Schematic" width="300"/>
+
+<img src=assets/schematic.png alt="Schematic" width="500"/>
 
 PCB
-<img src=assets/pcb.png alt="Schematic" width="300"/>
+
+<img src=assets/pcb.png alt="Schematic" width="500"/>
 
 ## Firmware:
 My hackpad uses [KMK](https://github.com/KMKfw/kmk_firmware) firmware.

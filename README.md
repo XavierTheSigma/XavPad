@@ -7,8 +7,8 @@ XavPad is a 4x3 key macropad which uses KMK. I made this to help me be more prod
 - Dual layers 
 
 ## CAD Model:
-The entire case fits together fits together with 4 M3 screws.
-The case has 2 seperate peices: The Bottom and Sides, and the Top.
+The entire case fits together with 4 M3 screws.
+The case has 2 seperate pieces: The Bottom and Sides, and the Top.
 
 <img src=assets/cad.png alt="Schematic" width="500"/>
 
@@ -38,5 +38,5 @@ For now it uses KMK but later on I might switch to QMK and add VIA support.
 - 4x M3x16mm screws
 - 12x through-hole 1N4148 Diodes
 - 1x XIAO RP2040
-- 1x Case
+- 1x Case (2 pieces)
 
